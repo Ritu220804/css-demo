@@ -1,2 +1,2 @@
 # css-demo
-simple html and css project
+simple html and css project.
